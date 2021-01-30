@@ -23,8 +23,8 @@ define("COUNTRY", "Turkey");
 ---
 
 ### 💻 &nbsp;Github Public Stats :computer:
-  <img align="left" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmetkucukonder&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img align="right" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmetkucukonder&layout=compact&langs_count=8&theme=algolia"/>
+  <img align="center" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmetkucukonder&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img align="center" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmetkucukonder&layout=compact&langs_count=8&theme=algolia"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ahmetkucukonder)
 
