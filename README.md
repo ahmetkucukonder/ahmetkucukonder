@@ -18,7 +18,6 @@ define("COUNTRY", "Turkey");
 ![HTML](https://img.shields.io/badge/-HTML-05192Astyle=flat&logo=html)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05192Astyle=flat&logo=css)&nbsp;
 ![JS](https://img.shields.io/badge/-JS-05192Astyle=flat&logo=js)&nbsp;
-![C#](https://img.shields.io/badge/-CSharp-05192Astyle=flat&logo=csharp)
 
 ---
 
